@@ -1,4 +1,4 @@
-# Playwright_Tests
+# Playwright Tests
 Sample scripts in JS
 
 Testing Framework - TestCafe / JavaScript
