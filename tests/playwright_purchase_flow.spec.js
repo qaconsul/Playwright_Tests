@@ -57,7 +57,7 @@ test.describe('Account Creation, Login and Checkout Tests', () => {
   }
 
   // Test case for complete checkout flow
-  test('Test 3: Create account, login, add products, checkout and verify invoice', async ({ page, context }) => {
+  test('Test: Create account, login, add products, checkout and verify invoice', async ({ page, context }) => {
     // Step 1: Send POST request to create account
     console.log('Step 1: Sending POST request to create account...');
     const accountData = {
