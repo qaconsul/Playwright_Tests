@@ -8,3 +8,8 @@ To run specific script, run the following command:
 ```bash
 npx playwright test playwright_purchase_flow.spec.js 
 ```
+
+To see the HTML report on test run, run the following command:
+```bash
+npx playwright show-report 
+```
